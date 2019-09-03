@@ -1,4 +1,4 @@
-# symplex_ray_tracing
+# Symplex Ray Tracing
 
 Ray tracing based on J.L.Zheng, C.B.Millham article **A linear programming method for ray-convex polyhedron intersection**. 
 
